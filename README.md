@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @josemah32
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# ¡Hola, soy josemah! 👋
 
-<!---
-josemah32/josemah32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+¡Bienvenido a mi rincón en GitHub! Soy un entusiasta del desarrollo web y los coches, y aquí encontrarás una mezcla de proyectos relacionados con JavaScript, CSS y HTML, junto con algunos proyectos fascinantes sobre el mundo automotriz. 🚗💻
+
+## Sobre mí
+
+- 🌐 Desarrollador web apasionado por crear experiencias elegantes y funcionales.
+- 💻 Especializado en JavaScript, CSS y HTML para construir aplicaciones web increíbles.
+- 🚗 Amante de los coches y la tecnología automotriz.
+
+## Redes Sociales
+
+- [Linktree](https://linktr.ee/JoseMah)
+
+¡Gracias por visitar mi perfil! Espero que encuentres algo interesante entre mi código y proyectos. 🚀

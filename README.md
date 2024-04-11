@@ -10,6 +10,6 @@
 
 ## Redes Sociales
 
-- [Linktree](https://linktr.ee/JoseMah)
+- [Mi Web](www.josemah.cloudns.be)
 
 ¡Gracias por visitar mi perfil! Espero que encuentres algo interesante entre mi código y proyectos. 🚀
